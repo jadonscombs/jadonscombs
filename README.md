@@ -15,7 +15,7 @@ I love new challenges, learning new things, complex analysis, R&D, and procuring
 
 See my [LinkedIn](https://www.linkedin.com/in/jadonscombs) for more details.
 
-### Currently Learning... 🛠
+### Currently Learning... 📚
 - Kubernetes
 - Splunk
 - RangeForce Community Edition modules
