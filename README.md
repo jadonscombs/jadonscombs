@@ -11,7 +11,8 @@ I love new challenges, learning new things, complex analysis, R&D, and procuring
 - **Certification**: CompTIA Security+ SY0-601 (Code: TDXG756FWDR1Q5KR)
 
 ### Education 🎓
-- **Bachelor's Degree** in Computer Science and Software Engineering **|** Univeristy of Washington Bothell **|** 2021
+- **Bachelor of Science** in Computer Science and Software Engineering **|** Univeristy of Washington Bothell **|** Mar. 2021
+- **Associate of Science** in Computer Science **|** South Seattle College **|** Jun. 2017
 - See my [LinkedIn](https://www.linkedin.com/in/jadonscombs) for more details.
 
 ### Currently Learning... 📚
