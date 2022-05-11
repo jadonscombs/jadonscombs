@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jadon, coffee ☕ enthusiast with a passion for advanced technology and information security.
+I'm Jadon, coffee enthusiast ☕ with a passion for advanced technology and information security.
 
 I love new challenges, learning new things, complex analysis, R&D, and procuring innovative, creative and considerate solutions.
 
