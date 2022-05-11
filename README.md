@@ -12,8 +12,7 @@ I love new challenges, learning new things, complex analysis, R&D, and procuring
 
 ### Education 🎓
 - **Bachelor's Degree** in Computer Science and Software Engineering **|** Univeristy of Washington Bothell **|** 2021
-
-See my [LinkedIn](https://www.linkedin.com/in/jadonscombs) for more details.
+- See my [LinkedIn](https://www.linkedin.com/in/jadonscombs) for more details.
 
 ### Currently Learning... 📚
 - Kubernetes
