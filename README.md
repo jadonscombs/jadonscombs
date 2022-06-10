@@ -4,8 +4,8 @@ I'm Jadon, coffee enthusiast ☕ with a passion for advanced technology and info
 I love new challenges, learning new things, complex analysis, R&D, and procuring innovative, creative and considerate solutions.
 
 ### (S)kills/(F)amiliarities 🛠
-- **Programming**: Python (s)(3+ years)
-- **DBMS**: SQLite (f)
+- **Programming**: Python (s)(3+ years), C++ (f)
+- **DBMS**: MySQL (f), SQLite (f)
 - **DevOps**: PowerShell (f), Bash (f), Git (f), REST API (f)
 - **Other**: Automation, network config./management (s), SIEM and Splunk basics (f)
 - **Certification**: CompTIA Security+ SY0-601 (Code: TDXG756FWDR1Q5KR)
