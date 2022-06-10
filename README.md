@@ -7,7 +7,7 @@ I love new challenges, learning new things, complex analysis, R&D, and procuring
 - **Programming**: Python (s)(3+ years), C++ (f)
 - **DBMS**: MySQL (f), SQLite (f)
 - **DevOps**: PowerShell (f), Bash (f), Git (f), REST API (f)
-- **Other**: Automation, network config./management (s), SIEM and Splunk basics (f)
+- **Other**: Automation, network config./management (s), SIEM and Splunk basics (f), documentation (s)
 - **Certification**: CompTIA Security+ SY0-601 (Code: TDXG756FWDR1Q5KR)
 
 ### Education 🎓
