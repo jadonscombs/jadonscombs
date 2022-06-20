@@ -6,7 +6,7 @@ I love new challenges, learning new things, complex analysis, R&D, and procuring
 ### (S)kills/(F)amiliarities 🛠
 - **Programming**: Python (s)(3+ years), C++ (f)
 - **DBMS**: MySQL (f), SQLite (f)
-- **DevOps**: PowerShell (f), Bash (f), Git (f), REST API (f)
+- **DevOps**: PowerShell (f), Bash (f), Git (f), REST APIs (f)
 - **Other**: Automation, network config./management (s), SIEM and Splunk basics (f), documentation (s)
 - **Certification**: CompTIA Security+ SY0-601 (Code: TDXG756FWDR1Q5KR)
 
@@ -16,9 +16,8 @@ I love new challenges, learning new things, complex analysis, R&D, and procuring
 - See my [LinkedIn](https://www.linkedin.com/in/jadonscombs) for more details.
 
 ### Currently Learning... 📚
-- Kubernetes
 - Splunk
-- RangeForce Community Edition modules
+- CCNA topics
 
 <!---
 jadonscombs/jadonscombs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
