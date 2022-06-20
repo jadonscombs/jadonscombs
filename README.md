@@ -18,6 +18,7 @@ I love new challenges, learning new things, complex analysis, R&D, and procuring
 ### Currently Learning... 📚
 - Splunk
 - CCNA topics
+- C++ Network Programming
 
 <!---
 jadonscombs/jadonscombs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
