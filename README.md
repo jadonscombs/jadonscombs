@@ -4,10 +4,10 @@ I'm Jadon, coffee enthusiast ☕ passion for information security, data and tech
 I love new challenges, learning new things, complex analysis, R&D, and procuring innovative, creative and considerate solutions.
 
 ### (S)kills/(F)amiliarities 🛠
-- **Programming**: Python (s)(3+ years), C++ (f)
+- **Programming**: Python (s)(3+ years)
 - **DBMS**: MySQL (f), SQLite (f)
 - **DevOps**: PowerShell (f), Bash (f), Git (f), REST APIs (f)
-- **Other**: Automation, network config./management (s), SIEM and Splunk basics (f), documentation (s)
+- **Other**: Documentation/high-level orchestration (s), CI/CD (f), Automation (s), network config/management (s),
 - **Certification**: CompTIA Security+ SY0-601 (Code: TDXG756FWDR1Q5KR)
 
 ### Education 🎓
@@ -16,9 +16,9 @@ I love new challenges, learning new things, complex analysis, R&D, and procuring
 - See my [LinkedIn](https://www.linkedin.com/in/jadonscombs) for more details.
 
 ### Currently Learning... 📚
-- Splunk
 - CCNA topics
-- C++ Network Programming
+- Network+ (and related tools/technologies)
+- Git
 
 <!---
 jadonscombs/jadonscombs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
