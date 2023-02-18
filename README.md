@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Jadon, coffee enthusiast ☕ passion for information security, data and technological innovation.
+I'm Jadon, coffee enthusiast ☕ passion for information security, data and technological innovation through successful orchestration.
 
-I love new challenges, learning new things, complex analysis, R&D, and procuring innovative, creative and considerate solutions.
+I love new challenges, continuous learning, analysis, R&D, and procuring innovative, creative and considerate solutions.
 
 ### (S)kills/(F)amiliarities 🛠
 - **Programming**: Python (s)(3+ years)
