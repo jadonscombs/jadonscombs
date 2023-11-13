@@ -1,13 +1,12 @@
 ### Hi there 👋
-I'm Jadon, coffee enthusiast ☕ passion for information security, data and technological innovation through successful orchestration.
+I'm Jadon, passionate about information technology and focused on all things cybersecurity.
 
-I love new challenges, continuous learning, analysis, R&D, and procuring innovative, creative and considerate solutions.
+I love new challenges, continuous learning, and currently enjoy many aspects of cyber defense, forensics, and analytical work.
 
 ### (S)kills/(F)amiliarities 🛠
-- **Programming**: Python (s)(3+ years)
-- **DBMS**: MySQL (f), SQLite (f)
-- **DevOps**: PowerShell (f), Bash (f), Git (f), REST APIs (f)
-- **Other**: Documentation/high-level orchestration (s), CI/CD (f), Automation (s), network config/management (s),
+- **Programming**: Python (s)(3+ years), MySQL (f), SQLite (f)
+- **DevOps**: PowerShell (f), Azure DevOps, Power BI, REST APIs (f), Git (f)
+- **Other**: Documentation (s), CI/CD (f), Automation (s), Incident Response, Azure Portal, MS Sentinel, Log Analytics, Vulnerability Management
 - **Certification**: CompTIA Security+ SY0-601 (Code: TDXG756FWDR1Q5KR)
 
 ### Education 🎓
@@ -16,9 +15,8 @@ I love new challenges, continuous learning, analysis, R&D, and procuring innovat
 - See my [LinkedIn](https://www.linkedin.com/in/jadonscombs) for more details.
 
 ### Currently Learning... 📚
-- CCNA topics
-- Network+ (and related tools/technologies)
-- Git
+- CCNA Certification (In-progress)
+- Network engineering
 
 <!---
 jadonscombs/jadonscombs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
