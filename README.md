@@ -17,6 +17,7 @@ When I'm not working, I love taking on new challenges, continuous learning, and 
 ### Currently Learning... 📚
 - Josh Madakor's [Hands-On Cyber Security Course](https://joshmadakor.tech/cyber/)
 - CCNA Certification (In-progress)
+- Vulnerability Management
 - Network engineering
 
 <!---
