@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jadon, passionate about information technology and focused on all things cybersecurity.
 
-When I'm not working, I love taking on new challenges, continuous learning, and currently enjoy many aspects of cyber defense, forensics, and analytical work.
+When I'm not working, I love taking on new challenges, continuous learning, and currently enjoy many aspects of cyber defense, forensics, and cyber analytical work.
 
 ### (S)kills/(F)amiliarities 🛠
 - **Programming**: Python (s)(3+ years), MySQL (f), SQLite (f)
