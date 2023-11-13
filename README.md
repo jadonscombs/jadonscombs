@@ -15,7 +15,7 @@ When I'm not working, I love taking on new challenges, continuous learning, and 
 - See my [LinkedIn](https://www.linkedin.com/in/jadonscombs) for more details.
 
 ### Currently Learning... 📚
-- Josh Madakor's Hands-On [Cyber Security Course](https://joshmadakor.tech/cyber/)
+- Josh Madakor's [Hands-On Cyber Security Course](https://joshmadakor.tech/cyber/)
 - CCNA Certification (In-progress)
 - Network engineering
 
