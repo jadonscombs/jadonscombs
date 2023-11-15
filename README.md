@@ -3,7 +3,10 @@ I'm Jadon, passionate about information technology and focused on all things cyb
 
 When I'm not working, I love taking on new challenges, continuous learning, and currently enjoy many aspects of cyber defense, forensics, and cyber analytical work.
 
-### (S)kills/(F)amiliarities 🛠
+### Projects 🛠
+- [ Live SOC / Honeynet in Azure ](https://github.com/jadonscombs/MS-Azure-SOC)
+
+### (S)kills/(F)amiliarities 📍
 - **Programming**: Python (s)(3+ years), MySQL (f), SQLite (f)
 - **DevOps**: PowerShell (f), Azure DevOps, Power BI, REST APIs (f), Git (f)
 - **Other**: Documentation (s), CI/CD (f), Automation (s), Incident Response, Azure Portal, MS Sentinel, Log Analytics, Vulnerability Management
