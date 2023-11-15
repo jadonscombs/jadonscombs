@@ -5,6 +5,7 @@ When I'm not working, I love taking on new challenges, continuous learning, and 
 
 ### Projects 🛠
 - [ Live SOC / Honeynet in Azure ](https://github.com/jadonscombs/MS-Azure-SOC)
+- [Python Video Frames Extractor](https://github.com/jadonscombs/py-video-frame-extractor)
 
 ### (S)kills/(F)amiliarities 📍
 - **Programming**: Python (s)(3+ years), MySQL (f), SQLite (f)
