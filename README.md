@@ -8,9 +8,9 @@ When I'm not working, I love taking on new challenges, continuous learning, and 
 - [Python Video Frames Extractor](https://github.com/jadonscombs/py-video-frame-extractor)
 
 ### (S)kills/(F)amiliarities 📍
-- **Programming**: Python (s)(3+ years), MySQL (f), SQLite (f)
-- **DevOps**: PowerShell (f), Azure DevOps, Power BI, REST APIs (f), Git (f)
-- **Other**: Documentation (s), CI/CD (f), Automation (s), Incident Response, Azure Portal, MS Sentinel, Log Analytics, Vulnerability Management
+- **Programming**: Python (s)(4+ years), MySQL (f), SQLite (f)
+- **DevOps**: Azure DevOps (s), Git (f), Power BI (f), REST APIs (f)
+- **Other**: Documentation (s), CI/CD (f), Automation (s), Incident Response (f), Azure Portal, Vulnerability Management
 - **Certification**: CompTIA Security+ SY0-601 (Code: TDXG756FWDR1Q5KR)
 
 ### Education 🎓
@@ -19,10 +19,12 @@ When I'm not working, I love taking on new challenges, continuous learning, and 
 - See my [LinkedIn](https://www.linkedin.com/in/jadonscombs) for more details.
 
 ### Currently Learning... 📚
-- Josh Madakor's [Hands-On Cyber Security Course](https://joshmadakor.tech/cyber/)
 - CCNA Certification (In-progress)
 - Vulnerability Management
-- Network engineering
+- PHP
+
+### Completed... ✅
+- Josh Madakor's [Hands-On Cyber Security Course](https://joshmadakor.tech/cyber/)
 
 <!---
 jadonscombs/jadonscombs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
