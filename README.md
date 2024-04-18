@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jadon, passionate about information technology and focused on all things cybersecurity.
+I'm Jadon, passionate about information technology, security, and software engineering.
 
 When I'm not working, I love taking on new challenges, continuous learning, and currently enjoy many aspects of cyber defense, forensics, and cyber analytical work.
 
@@ -8,8 +8,8 @@ When I'm not working, I love taking on new challenges, continuous learning, and 
 - [Python Video Frames Extractor](https://github.com/jadonscombs/py-video-frame-extractor)
 
 ### (S)kills/(F)amiliarities 📍
-- **Programming**: Python (s)(4+ years), MySQL (f), SQLite (f)
-- **DevOps**: Azure DevOps (s), Git (f), Power BI (f), REST APIs (f)
+- **Programming**: Python (s)(4+ years), MySQL (f), PHP (f) SQLite (f)
+- **DevOps**: Azure DevOps (s), Git (f), Power BI (f), Postman (f), REST APIs (f)
 - **Other**: Documentation (s), CI/CD (f), Automation (s), Incident Response (f), Azure Portal, Vulnerability Management
 - **Certification**: CompTIA Security+ SY0-601 (Code: TDXG756FWDR1Q5KR)
 
@@ -20,8 +20,7 @@ When I'm not working, I love taking on new challenges, continuous learning, and 
 
 ### Currently Learning... 📚
 - CCNA Certification (In-progress)
-- Vulnerability Management
-- PHP
+- AZ-104 and PowerShell guided learning
 
 ### Completed... ✅
 - Josh Madakor's [Hands-On Cyber Security Course](https://joshmadakor.tech/cyber/)
