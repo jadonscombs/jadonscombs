@@ -12,9 +12,9 @@ Committed to bringing fullest effort and strong solutions in any professional an
 - [Python Video Frames Extractor](https://github.com/jadonscombs/py-video-frame-extractor)
 
 ### (S)kills/(F)amiliarities 📍
-- **Programming**: Python (s)(4+ years), MySQL (f), PHP (f) SQLite (f)
-- **DevOps**: Azure DevOps (s), Git (f), Power BI (f), Postman (f), REST APIs (f)
-- **Other**: Documentation (s), CI/CD (f), Automation (s), Incident Response (f), Azure Portal, Vulnerability Management
+- **Programming**: Python (s)(4+ years), MySQL (f), PHP (f), SQLite (f)
+- **DevOps**: Azure DevOps (s), Git (f), Postman (f), REST APIs (f), Power BI (f)
+- **Other**: Documentation (s), CI/CD (f), Automation (s), Azure Portal (f), Vulnerability Management (f), Incident Response (f)
 - **Certification**: CompTIA Security+ SY0-601 (Code: TDXG756FWDR1Q5KR)
 
 ### Education 🎓
