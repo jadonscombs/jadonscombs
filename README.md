@@ -1,9 +1,13 @@
 ### Hi there 👋
-I'm Jadon, passionate about information technology, security, and software engineering.
+I'm Jadon, and I enjoy many aspects of cyber security, IT, software engineering, and analytical work.
 
-When I'm not working, I love taking on new challenges, continuous learning, and currently enjoy many aspects of cyber defense, forensics, and cyber analytical work.
+Creative thinker, loves collaborating, apt for challenges, insightful conversations and continuous learning.
+
+Committed to bringing fullest effort and strong solutions in any professional and personal work.
+
 
 ### Projects 🛠
+- [Robust Git and Service-Managed Productivity Bot](https://github.com/jadonscombs/HumbleHelper)
 - [ Live SOC / Honeynet in Azure ](https://github.com/jadonscombs/MS-Azure-SOC)
 - [Python Video Frames Extractor](https://github.com/jadonscombs/py-video-frame-extractor)
 
