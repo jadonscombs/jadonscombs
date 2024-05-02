@@ -28,6 +28,7 @@ Committed to bringing fullest effort and strong solutions in any professional an
 
 ### Completed... ✅
 - Josh Madakor's [Hands-On Cyber Security Course](https://joshmadakor.tech/cyber/)
+- TechWorld with Nana [Kubernetes Crash Course](https://www.youtube.com/watch?v=s_o8dwzRlu4)
 
 <!---
 jadonscombs/jadonscombs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
