@@ -23,7 +23,7 @@ Committed to bringing fullest effort and strong solutions in any professional an
 - See my [LinkedIn](https://www.linkedin.com/in/jadonscombs) for more details.
 
 ### Currently Learning... 📚
-- CCNA Certification (In-progress)
+- Certified Kubernetes Administrator (CKA) (70% studied)
 - AZ-104 and PowerShell guided learning
 
 ### Completed... ✅
